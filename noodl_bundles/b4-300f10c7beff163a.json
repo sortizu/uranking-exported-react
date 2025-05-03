@@ -1,0 +1,1 @@
+[{"name":"/Perfil de Docente","nodes":[{"id":"99dd6bf6-b765-53a7-c61c-1c8d4e71a1a9","type":"Page","parameters":{},"ports":[],"children":[]},{"id":"f2a39659-34db-b12d-2854-98ef79822acc","type":"PageInputs","parameters":{"queryParams":"id-docente"},"ports":[],"children":[]}],"connections":[],"ports":[],"roots":["99dd6bf6-b765-53a7-c61c-1c8d4e71a1a9"]}]
